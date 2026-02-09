@@ -3,7 +3,7 @@
 A step-by-step guide to setting up [OpenClaw](https://openclaw.ai/) on an AWS EC2 instance.
 
 > 🎬 **Prefer a video walkthrough?** A full step-by-step tutorial is available on YouTube:
-> **[AI With Hassan – OpenClaw Tutorial](https://www.youtube.com/@AI.with.Hassan/featured)**
+> **[AI With Hassan – OpenClaw Tutorial](https://www.youtube.com/watch?v=bvQXI7-kMDw)**
 
 ---
 
